@@ -1,7 +1,7 @@
 # Dockerize-ASP.NET-App
 
 ## Dockerizing an ASP.NET App
-This repository contains an example of how to Dockerize an ASP.NET app. The steps below will guide you through the process of building and running the Docker container.
+This repository contains an example of how to Dockerize an ASP.NET app. Creating a Docker image that contains all the necessary components for the app to run, including the .NET Core runtime, any dependencies, and the app code itself. This image can then be used to spin up one or more Docker containers, each of which runs an instance of the app. The steps below will guide you through the process of building and running the Docker container.
 
 ## Prerequisites
 Before you begin, make sure you have the following installed:
